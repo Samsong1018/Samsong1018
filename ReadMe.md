@@ -28,10 +28,9 @@ Recent Running Start graduate from Carnation, WA with an Associate of Arts and S
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
 
 ## 🚀 Featured Projects
-- **AMvpn** - Self-hosted WireGuard VPN on Oracle Cloud free tier
+- **AMvpn** - Self-hosted WireGuard VPN on Oracle Cloud
 - **TodoLander** - Full-stack task management web app
 - **Somab** - Custom Piper TTS voice training project
-- **Local AI Infrastructure** - GPU-optimized setup for text/image generation
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Samsong1018&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
