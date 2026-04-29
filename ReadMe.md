@@ -31,6 +31,7 @@ Recent Running Start graduate from Carnation, WA with an Associate of Arts and S
 - **AMvpn** - Self-hosted WireGuard VPN on Oracle Cloud
 - **TodoLander** - Full-stack task management web app
 - **Somab** - Custom Piper TTS voice training project
+- [View Projects](projects.md)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Samsong1018&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
