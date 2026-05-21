@@ -2,6 +2,30 @@
 [Return](ReadMe.md)
 ---
 
+## D2D — WebRTC P2P File Sharing
+
+Instant cross-device file sharing using WebRTC data channels with QR/code pairing. Files transfer peer-to-peer with an ECDH handshake → AES-GCM encryption pipeline. Includes a Socket.IO relay fallback for NAT traversal, optional share links with password protection (scrypt-hashed), folder support via client-side zip (fflate), Redis-backed persistence, and Docker deployment with Caddy TLS.
+
+**Skills demonstrated:** WebRTC, end-to-end encryption (Web Crypto API, ECDH, AES-GCM), real-time signaling, monorepo architecture, rate limiting, CI/CD (GitHub Actions), Docker
+
+**Stack:** Next.js 14 · Socket.IO · TypeScript · Redis · Zustand · Caddy · Docker · pnpm workspaces
+
+**Live:** https://D2D-Filetransfer.onrender.com
+
+---
+
+## Floret — Period & Cycle Tracker
+
+A period and cycle tracking web app with cycle prediction, confidence scoring, sleep tracking, partner mode, and doctor-ready PDF report generation. Built with Google OAuth and deployed as a PWA, with a React Native mobile app via Expo.
+
+**Skills demonstrated:** Health data modeling, cycle prediction algorithms, OAuth 2.0, PWA, cross-platform mobile (React Native/Expo), PDF generation, responsive design
+
+**Stack:** Vanilla JS · Node.js · Express · PostgreSQL · Google OAuth · React Native · Expo · PWA
+
+**Live:** https://Floret.fyi
+
+---
+
 ## Somab — AI Voice Assistant
 
 A local AI assistant with a custom trained voice, face animation, passive listening, and a custom PCB. Built around Piper TTS for low-latency on-device speech synthesis with a character model for visual response feedback.
@@ -16,11 +40,11 @@ A local AI assistant with a custom trained voice, face animation, passive listen
 
 ## AMvpn — Self-Hosted WireGuard VPN
 
-A production WireGuard VPN running on Oracle Cloud free tier. Full server setup from scratch: kernel module configuration, iptables routing, peer management, and DNS. Live and routing traffic across devices.
+A production WireGuard VPN on Oracle Cloud free tier, built from scratch. Includes a full monitoring stack: AdGuard Home DNS with DoH, nginx HTTPS dashboard, FastAPI backend, GeoIP-enriched logging, fail2ban, port knocking (knockd), and a Cowrie SSH honeypot on a second VM with Telegram push notifications for alerts.
 
-**Skills demonstrated:** Linux networking and sysadmin, WireGuard protocol, cloud infrastructure (Oracle Cloud), iptables/NAT, network troubleshooting (tcpdump, Wireshark)
+**Skills demonstrated:** Linux networking and sysadmin, WireGuard protocol, cloud infrastructure (Oracle Cloud), iptables/NAT, honeypot deployment, intrusion detection, real-time logging pipelines
 
-**Stack:** WireGuard · Oracle Cloud · Linux · iptables
+**Stack:** WireGuard · FastAPI · AdGuard Home · Docker · Oracle Cloud · Linux · nginx · SQLite
 
 **Repo:** Not included
 
@@ -52,6 +76,18 @@ A collection of Python scripts for common security tasks. Includes a file integr
 **Stack:** Python · hashlib · socket
 
 **Repo:** https://github.com/Samsong1018/security-scripts
+
+---
+
+## Bumper the Band — Band Website
+
+A full band website for Bumper, featuring a music player, show schedule, photo gallery, and booking contact. Built and deployed as a live production site.
+
+**Skills demonstrated:** Frontend development, responsive design, static site deployment, media integration
+
+**Stack:** HTML · CSS · JavaScript
+
+**Live:** https://bumpertheband.com
 
 ---
 
