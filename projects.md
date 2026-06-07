@@ -50,6 +50,18 @@ A production WireGuard VPN on Oracle Cloud free tier, built from scratch. Includ
 
 ---
 
+## Fracture — Web Pentesting Suite
+
+An open-source PyQt6 desktop pentesting application combining a full HTTP/HTTPS intercepting proxy (with Repeater, Intruder, Scanner, Logger, and Site Map tabs), a findings tracker with CVSS scoring and Obsidian-compatible Markdown export, and a utility belt covering reverse shell generation, hash identification, payload libraries, DNS recon, and security header analysis. Everything runs locally — no cloud, no telemetry.
+
+**Skills demonstrated:** Python, GUI application development (PyQt6), HTTP/HTTPS proxy and MITM, SSL/TLS certificate handling, fuzzing engine design (sniper, pitchfork, cluster bomb modes), CVSS scoring, security tooling architecture
+
+**Stack:** Python · PyQt6 · Linux
+
+**Repo:** https://github.com/Samsong1018/Fracture
+
+---
+
 ## TodoLander — Full-Stack Todo App
 
 A daily task management web app with Google OAuth, service worker caching, responsive mobile layout, micro-animations, and a focus timer. Originally built in React, then rewritten to vanilla JS to eliminate the 3MB in-browser Babel dependency.

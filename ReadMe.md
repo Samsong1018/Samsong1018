@@ -31,6 +31,7 @@ Running Start graduate — Associate of Arts and Sciences from Bellevue College 
 - **D2D** - WebRTC P2P file sharing with AES-GCM encryption, QR pairing, and relay fallback
 - **Floret** - Period and cycle tracker with prediction, partner mode, and PDF reports
 - **AMvpn** - Self-hosted WireGuard VPN on Oracle Cloud with dashboard, honeypot, and GeoIP logging
+- **Fracture** - Open-source PyQt6 web pentesting suite with proxy, intruder, scanner, findings tracker, and pentest utility belt
 - **TodoLander** - Full-stack task management web app with Google OAuth and PWA support
 - **Somab** - AI voice assistant with custom Piper TTS voice, face animation, and custom PCB
 - **WTFlag** - Claude Code hook that explains shell commands in plain English using a local SQLite/tldr-pages database
