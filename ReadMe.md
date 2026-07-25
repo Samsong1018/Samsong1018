@@ -2,7 +2,7 @@
 Running Start graduate — Associate of Arts and Sciences from Bellevue College (3.75 GPA, Honor Roll), heading to university for CS and Cybersecurity. Security-minded full-stack developer with hands-on experience building self-hosted infrastructure, local AI systems, and production web apps. Actively pursuing ISC² CC certification and training on TryHackMe.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amos-horne-25b4693a6/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amoshorne@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amos-horne-25b4693a6/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact@somab.dev) 
 
 # 💻 Tech Stack:
 
