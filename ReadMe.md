@@ -35,7 +35,7 @@ Running Start graduate — Associate of Arts and Sciences from Bellevue College 
 - **TodoLander** - Full-stack task management web app with Google OAuth and PWA support
 - **Somab** - AI voice assistant with custom Piper TTS voice, face animation, and custom PCB
 - **WTFlag** - Claude Code hook that explains shell commands in plain English using a local SQLite/tldr-pages database
-- [View All Projects](projects.md)
+- [View All Projects](somab.dev)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Samsong1018&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
